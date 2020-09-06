@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Profiles</string>
+    <string name="show_profiles">Show Profiles</string>
+    <string name="profile_details">Enter Your Profile Details</string>
+    <string name="website_name">Website Name</string>
+    <string name="image_url">Image Url</string>
+    <string name="profile_url">Profile Url</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add Profile</string>
+    <string name="start_message">Get to your profiles by just a click.</string>
+</resources>
